@@ -1,0 +1,44 @@
+/* 1# - Exercício
+  const array = [
+    [1, 5, 7, 9],
+    [2, 6, 8, 10]
+  ]
+
+- Calcule a média dos números do array da primeira posição (Índice 0)
+- Calcule a média dos números do array da segunda posição (Índice 1)
+- Some todos os números dos arrays dos índices 1 e 2 e também forneça a média do array em relação a quantidade 
+de todos os números do array
+- Multiplique os valores de cada index e coloque-os em variáveis representando cada index,
+  exemplo const index0, const index1 e etc...
+*/
+
+
+/* 2# - Exercício
+  Vamos construir com if um sistema de sinal de transito
+  - Crie uma variável chamada cor que receba uma das cores a seguir: "vermelho", "amarelo", "verde"
+  - Gostaríamos que:
+    - Caso a variável cor for vermelha imprima na tela "PARE"
+    - Caso a variável cor for amarela imprima na tela "CUIDADO"
+    - Caso a variável cor for verde imprima na tela "PROSSIGA"
+    - Caso a variável cor receba alguma cor inválida, imprima "COR INVÀLIDA"
+*/
+
+/* 3# - Exercício
+  Monte um programa que realiza a verificação de uma entrada de um ônibus
+  Monte um fluxo sistêmico que verifique os seguintes requisitos.
+    - Pessoas abaixo de 6 anos não são permitidas.
+    - Crianças entre 7 a 10 anos só podem entrar acompanhada dos pais
+    - Adolescentes de 11 a 17 anos pagam se estiverem sem "carteirinha" e não pagam com "carteirinha"
+    - Pessoas acima de 65 anos não pagam
+    - Pessoas acima de 18 anos pagam normalmente.
+
+    Saídas esperadas do sistema
+      - "ENTRADA PERMITIDA",
+      - "ENTRADA PERMITIDA, SEM CUSTO",
+      - "ENTRADA NÃO PERMITIDA"
+    
+    Inicie seu sistema com as seguintes variáveis
+    const idade = valor do tipo number
+    const carteirinha = valor do tipo boolean
+    const acompanhadoPais = valor do tipo boolean
+*/

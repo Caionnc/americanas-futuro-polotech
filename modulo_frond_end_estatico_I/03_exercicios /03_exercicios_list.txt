@@ -1,0 +1,23 @@
+/**
+#1 Exercício
+Dado o array abaixo, imprima apenas os valores ímpares
+*/
+const array = [15, 22, 25, 16, 17, 65, 32, 12, 78, 11, 23, 45, 9, 55, 100]
+
+/**
+#2 Exercício
+Dado o array abaixo, verifique qual é o maior número e exiba-lo
+*/
+const array1 = [15, 22, 25, 16, 17, 65, 32, 12, 78, 11, 23, 45, 9, 55, 100]
+
+/**
+#3 Exercício
+Dado o array abaixo, calcule a média dos valores de um array
+*/
+const array2 = [15, 22, 25, 16, 17, 65, 32, 12, 78, 11, 23, 45, 9, 55, 100]
+
+/**
+#4 Exercício
+Dado o array abaixo, calcule o quadrado de cada número
+*/
+const array3 = [15, 22, 25, 16, 17, 65, 32, 12, 78, 11, 23, 45, 9, 55, 100]

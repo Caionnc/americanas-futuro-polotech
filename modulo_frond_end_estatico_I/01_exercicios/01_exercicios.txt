@@ -1,0 +1,101 @@
+/* 1# - ExercÃ­cio - DONE
+Crie uma variÃ¡vel nome e substitua o texto abaixo com o valor da variÃ¡vel, 
+faÃ§a a substituiÃ§Ã£o com pelo menos duas formas, com o operador + ou com template string (``)
+
+console.log("NOME nasceu em 2000");
+console.log("Em 2019 NOME comeÃ§ou a programar");
+console.log("Em 2020 NOME ingressou na faculdade");
+console.log("Em 2022 como programador, NOME conquistou seu primeiro emprego");
+*/
+
+
+
+/* 2# - ExercÃ­cio
+  const numero = "32.45678"
+
+  Referenciando a variÃ¡vel acima:
+    - Retorne em uma nova variÃ¡vel o valor 32.45678 como um tipo de dado number (Utilize o typeof para verificar)
+    - Retorne em uma nova variÃ¡vel o resultado 32 como um tipo de dado number (Utilize o typeof para verificar)
+    - Retorne em uma nova variÃ¡vel o resultado 32.46 (Pegadinha!!)
+*/
+
+
+/* 3# - ExercÃ­cio
+  const numeros = [1, 2, 3, 1, 2, 4, 5, 5, 4, 10, 12, 10, 1, 13, 12, 14]
+
+  Dado o array acima:
+  - Retorne a posiÃ§Ã£o do primeiro nÃºmero 2
+  - Crie uma varÃ¡vel que verifique se existe o nÃºmero 14. Retorne true ou false
+  - Insira o numero 34 na ultima posiÃ§Ã£o do array.
+  - Insira o nÃºmero 90 na primeira posiÃ§Ã£o do array.
+  - Retorne em uma variÃ¡vel o tamanho do array acima.
+*/
+
+
+
+/* 4# ExercÃ­cio
+  const meses = ["Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov"]
+
+  Dado o array acima:
+   - Insira na Ãºltima posiÃ§Ã£o do novo array a string "Dez"
+   - Insira na primeira posiÃ§Ã£o do novo array a string "Jan"
+   - Retorne em uma variÃ¡vel o tamanho do array acima.
+*/
+
+/* 5# - ExercÃ­cio
+Declare uma const meuAnodeNascimento que recebe o ano de seu nascimento Ex: 2001
+Declare uma const anoAtual que recebe o ano atual Ex: 2022
+Exiba as constantes meuAnodeNascimento e anoAtual uma ao lado da outra no console.log()
+Declare uma variÃ¡vel chamada minhaIdade que recebe anoAtual subtraÃ­do a meuAnodeNascimento. Imprima o valor no console. (NÃ£o digite o valore da varÃ­avel minhaIdade de forma manual)
+Declare uma variÃ¡vel chamada numeroCinco, que recebe 5 e:
+      Descomente o console.log abaixo na terceira linha, Os nÃºmeros nÃ£o devem ser digitados manualmente;
+      1) Substitua a palavra "valor1" pelo anoAtual somado Ã  5;
+      2) Substitua a palavra "valor2" pela minhaIdade somada Ã  5;
+      3)console.log(`Em ${valor1}, estarei com ${valor2} anos.`)
+
+
+OBS:
+Para fazer conta no javascript utilize os seguintes exemplos
+  
+  const soma = 2 + 2
+  console.log(soma) // 4
+
+  const subtracao = 4 - 2
+  console.log(subtracao) // 2
+
+  const multiplicacao = 3 * 3
+  console.log(multiplicacao) // 9
+
+  const divisao = 10 / 2
+  console.log(divisao) // 5
+
+  *** SerÃ¡ passado aritimÃ©tica na prÃ³xima aula
+*/
+
+/* 6# - ExercÃ­cio
+Aqui no Brasil a temperatura Ã© medida em Celsius. PorÃ©m, vocÃª foi contratado para uma empresa americana para trabalhar com programaÃ§Ã£o 
+JavaScript e agora deverÃ¡ utilizar Fahrenheit no seu novo lar. 
+Crie uma calculadora que faÃ§a essa conversÃ£o e escreva no terminal a seguinte mensagem.
+
+  RETORNO:
+  "A temperatura de **VARIAVEL_EM_CELSIUS**Â°C Ã© igual a Fahrenheit: **VARIAVEL_QUE_FAZ_A_CONTA**Â°F"
+  
+  OBS:
+  1) FÃ³rmula para o cÃ¡lculo ||  Â°F = Â°C x 9 Ã· 5 + 32
+  2) Para ver se seu algoritmo estÃ¡ correto, utilize o site https://www.metric-conversions.org/pt-br/temperatura/celsius-em-fahrenheit.htm
+*/
+
+/* 7# - ExercÃ­cio
+Crie uma calculadora de IMC que imprima a frase abaixo. Onde tem **___** substitua por variÃ¡veis.
+
+  RETORNO ESPERADO:
+  "
+  **NOME** tem **IDADE** anos, pesa **KILOS** kg
+  tem **ALTURA** de altura e seu IMC Ã© de **IMC**
+  **NOME** nasceu em **ANO_NASCIMENTO**
+  "
+  OBS:
+    1 - Crie variÃ¡veis(let/const) para nome, idade, peso, altura, imc e ano de nascimento
+    2 - Para o resultado de altura utiliza em metros, exemplo: 1.63 | 1.85 | 1.76 e etc...
+    3 - O cÃ¡lculo do IMC Ã© peso / (alturaEmMetros * alturaEmMetros)
+*/
