@@ -1,0 +1,4 @@
+Exercício é criar um contador, em número impar começa fica com a cor vermelha e par com a cor verde, o design é totalmente de vocês, 
+deve ter um botão para incrementar e um para decrementar, 
+
+OBS: Não é permitido número menor que zero e maior que 100
