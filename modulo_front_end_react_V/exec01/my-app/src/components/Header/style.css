@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  background: rgb(248, 0, 50);
+  height: 70px;
+  color: aliceblue;
+  padding: 10px;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+}
+
+.header-americanas {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  gap: 20px;
+}

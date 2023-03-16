@@ -1,0 +1,41 @@
+.btn-success {
+  background-color: #99ff99;
+  color: black;
+  border-radius: 5px;
+
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.btn-success:hover {
+  cursor: pointer;
+}
+
+.btn-warning {
+  background-color: #ffff66;
+  color: black;
+  border-radius: 5px;
+
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.btn-warning:hover {
+  cursor: pointer;
+}
+
+.btn-danger {
+  background-color: #ff5050;
+  color: black;
+  border-radius: 5px;
+
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.btn-danger:hover {
+  cursor: pointer;
+}

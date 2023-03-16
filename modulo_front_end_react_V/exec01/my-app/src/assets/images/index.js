@@ -1,0 +1,1 @@
+export * as LogoAmericanas from "./americanas.png";
